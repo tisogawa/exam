@@ -1,0 +1,23 @@
+{
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "git@github.com:tisogawa/exam-foo.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:tisogawa/exam-bar.git"
+    }
+  ],
+  "require": {
+    "composer/installers": "~1.0",
+    "exam/foo": "dev-master",
+    "exam/bar": "dev-master"
+  },
+  "extra": {
+    "installer-paths": {
+      "lib/exam/foo": ["exam/foo"],
+      "lib/exam/bar": ["exam/bar"]
+    }
+  }
+}
