@@ -9,6 +9,9 @@
       "url": "git@github.com:tisogawa/exam-bar.git"
     }
   ],
+  "require-dev": {
+    "phpunit/phpunit": "3.7.*"
+  },
   "require": {
     "composer/installers": "~1.0",
     "exam/foo": "dev-master",
