@@ -1,7 +1,7 @@
 [main]
 host = https://www.transifex.com
 
-[rcdtokyo-sample.source-file]
+[tisogawa-sample.source-file]
 file_filter = resources/<lang>.po
 source_file = resources/source.pot
 source_lang = en
