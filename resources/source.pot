@@ -106,5 +106,5 @@ msgid ""
 msgstr ""
 
 #: wizard/views.py:47
-msgid "Thank you so much for using Transifex."
+msgid "Thank you so much again for using Transifex."
 msgstr ""
