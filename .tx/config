@@ -1,8 +1,7 @@
 [main]
 host = https://www.transifex.com
 
-[tisogawa-sample.source-file]
+[exam.source-pot]
 file_filter = resources/<lang>.po
 source_file = resources/source.pot
 source_lang = en
-
